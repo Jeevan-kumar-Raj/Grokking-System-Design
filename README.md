@@ -50,7 +50,7 @@ Source: [educative](https://www.educative.io)
 - [Uber Backend](designs/uber-backend.md)
 - [Ticketmaster](designs/ticketmaster.md)
 
-###################################################################################################################################
+#############################################################################################################
 # SYSTEM DESIGN PREPARATION
 * How to prepare for and answer system design questions
 
