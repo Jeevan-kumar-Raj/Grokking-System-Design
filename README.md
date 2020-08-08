@@ -51,7 +51,7 @@ Source: [educative](https://www.educative.io)
 - [Ticketmaster](designs/ticketmaster.md)
 
 
-### System Design Interviews: A step by step guide
+## System Design Interviews: A step by step guide
 **************************************************************************************************************************
 **************************************************************************************************************************
 
