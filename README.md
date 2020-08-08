@@ -51,9 +51,11 @@ Source: [educative](https://www.educative.io)
 - [Ticketmaster](designs/ticketmaster.md)
 
 
-************************************************************************************************************
+
 <h3>System Design Interviews: A step by step guide</h3>
 ************************************************************************************************************
+************************************************************************************************************
+
 # SYSTEM DESIGN PREPARATION
 * How to prepare for and answer system design questions
 
