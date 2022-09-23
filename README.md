@@ -89,7 +89,7 @@ Feel free to go through other lectures if needed.
 
 * [scalability for dummies](http://www.lecloud.net/tagged/scalability)
 
-* [Designing data intensive appliations]() This is by far one of the best books about large-scale systems and the practical challenges encountered during building them. It's focussed more on data-oriented applications though.
+* [Designing data intensive appliations](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) This is by far one of the best books about large-scale systems and the practical challenges encountered during building them. It's focussed more on data-oriented applications though.
 
 These talks should give you a starting point on how to think about such problems.
 
