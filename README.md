@@ -214,6 +214,7 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 * [Yammer Engineering](http://eng.yammer.com/blog/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Smarkets Blog](https://smarketshq.com/)
+* [Target Tech Blog](https://tech.target.com/)
 
 ## <a name='tldr'>Low on time ?</a>
 
