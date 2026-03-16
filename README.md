@@ -1,6 +1,6 @@
-[Grokking System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+[Grokking System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 ====
-Source: [educative](https://www.educative.io)
+Source: [designgurus](https://www.designgurus.io/)
 
 ## Interview Process
 - Scope the problem
