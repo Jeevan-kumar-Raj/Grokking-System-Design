@@ -233,3 +233,13 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
  8. Monetization
 
 Best of luck :+1:, feel free to send pull requests to add more content to this git!
+
+
+Hi Jeevan!
+
+Are you open to sponsorship opportunities? I’d love to sponsor my product on your repo.
+
+If you’re interested, feel free to DM me on X: @imryanarya007
+
+Thanks! 🙌
+
